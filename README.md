@@ -51,9 +51,6 @@ The dashboard is built using Power BI and focuses on delivering actionable busin
 ## 📂 Files Included
 - Power BI Dashboard (.pbix)
 - Dataset (CSV/Excel)
-- Screenshots of Dashboard
-
----
 
 ## 🚀 How to Use
 1. Download the .pbix file
